@@ -588,11 +588,6 @@ hash = "249b06b92b446ce2a6983b8b573e4a285edbe3060a63e233170200ef80794d42"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-radio.pw.toml"
-hash = "7bb9b367774fd68ce3e0c600f41f5c882b2232a203d3132b7224229ae73f9534"
-metafile = true
-
-[[files]]
 file = "mods/skinlayers3d-forge-1.8.2-mc1.20.1.jar"
 hash = "8b905c4f8545b955908bbb28ab948f8199dfec955574f3b1117c9ad10cbb8905"
 
