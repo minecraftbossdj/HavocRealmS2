@@ -1,0 +1,13 @@
+name = "Havoc Realm S2"
+author = "minecraftbossdj,NullHarp,Blista__Compact"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ed487055a9ea72d40ef1f39df789309de815bacc0ec2052dbfefe4d9548bb0d"
+
+[versions]
+forge = "47.4.4"
+minecraft = "1.20.1"

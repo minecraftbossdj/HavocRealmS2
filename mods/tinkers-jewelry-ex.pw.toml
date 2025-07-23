@@ -1,0 +1,13 @@
+name = "Tinkers' Jewelry EX"
+filename = "tinkers_jewelry_ex-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "433fac0ca5a414cbd13bd5f5d6172e0bbdc60397"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6707039
+project-id = 1268977
