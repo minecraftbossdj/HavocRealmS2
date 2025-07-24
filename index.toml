@@ -190,6 +190,10 @@ file = "mods/corpse-forge-1.20.1-1.0.21.jar"
 hash = "0942a6af3d0e472aab8db271dce2424bedc2ec9bdd10181fd7a62f832b2a407f"
 
 [[files]]
+file = "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
+
+[[files]]
 file = "mods/create-advanced-logistics.pw.toml"
 hash = "008f336b7917f4964edcc2e943358703941ea4f96ef85cd83b35c5735f99fe9c"
 metafile = true
@@ -421,6 +425,10 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
+file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-MODIFIED-unofficial.jar"
+hash = "21b9e09a9ced742cbe351f7f577f55f02e282a04502360713cd0b84874c35828"
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
@@ -519,6 +527,10 @@ metafile = true
 file = "mods/more-peripherals.pw.toml"
 hash = "c6835bdf7e9ada3bfff472e70d8c22d03af0e2a6e0bc5b79745d5c2fb3ff292c"
 metafile = true
+
+[[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
+hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
