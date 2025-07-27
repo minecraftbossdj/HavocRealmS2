@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -427,6 +427,11 @@ hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "0b811f8de64a172a9de2d151ce53579b666e15744b7744c64ddc894a8624c5e2"
+metafile = true
+
+[[files]]
 file = "mods/geckolib-forge-1.20.1-4.7.jar"
 hash = "bce8ed8bd22fc1c673c2d64dbd89c2e4922958c46bd2dad4ad43a69b0dc3924a"
 
@@ -616,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "b0d8e0a0119bc2af820742fc7b0f16e66e7bc84f906740140fc2e620782a16d6"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d64cc6ea9645a980ef0911bc036fb217ff9447fccb0086379490cb36b76932e2"
 metafile = true
 
 [[files]]
