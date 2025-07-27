@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6662027
 project-id = 335493
+
+[option]
+optional = true
+default = false
+description = "Makes your FPS dynamic (when you're not on minecraft)"

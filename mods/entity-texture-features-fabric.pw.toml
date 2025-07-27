@@ -1,6 +1,6 @@
 name = "[ETF] Entity Texture Features - [Fabric & Forge]"
 filename = "entity_texture_features_forge_1.20.1-6.2.9.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5982136
 project-id = 568563
+
+[option]
+optional = true
+default = false
+description = "Ports over optifine's entity texture features (like changing randomly or smth), recommended to pair this with entity model features."

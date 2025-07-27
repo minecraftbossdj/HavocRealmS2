@@ -1,6 +1,6 @@
 name = "Essential Mod"
 filename = "Essential_1-3-8-4_forge_1-20-1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6720394
 project-id = 546670
+
+[option]
+optional = true
+default = true
+description = "the essential mod frfr on skib (im ending it)"
