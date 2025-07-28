@@ -580,11 +580,6 @@ hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.pw.toml"
-hash = "c66129d5a0cdb5fb962aa6c0ce4d72ecab1bc212d03acfaf86c5dcf749cbace6"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "00f3f21762720f03dd0f1d60449d2a5d3a0104989223f4efa81401d94b8f3358"
 metafile = true
@@ -636,6 +631,16 @@ hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "a909fc3b78bd8a4b49b2fc3098d4765aba56c790f9772be8c06042a36789d9a6"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "a688b0aa8abb39e5cb303a7172038d15c99b10af075bd2bbb40d72bf1ec34358"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "f70cedcd4a5152a2094a77a165f68f839063ad38a299f113347cf65da21b6d2c"
 metafile = true
 
 [[files]]
