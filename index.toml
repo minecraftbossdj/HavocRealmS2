@@ -54,6 +54,11 @@ hash = "bcc1a00d272a45143109d2808452a9d24bbc886fe199488fb4b7819a79454d17"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
@@ -70,7 +75,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
 metafile = true
 
 [[files]]
@@ -307,8 +317,13 @@ hash = "d541212b2956222759610074ce52fe1ef8cd0e353003a5fc3978efe3b02425c5"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "0032004f11ee3bf632c2167300adddd4a52d75eb66ea4e8b2f002e4b75ce45cb"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
-hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -397,6 +412,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
+metafile = true
+
+[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "2176bc1552bc2956d07e7646f07ba72183234a981035b64de8fda338c7ffff50"
 metafile = true
@@ -438,6 +458,11 @@ hash = "bce8ed8bd22fc1c673c2d64dbd89c2e4922958c46bd2dad4ad43a69b0dc3924a"
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
+metafile = true
+
+[[files]]
+file = "mods/goprone.pw.toml"
+hash = "d13945ad3b6653db6c65c9f3654a9b1b440823bfca3b6fe55a49e3a21dfcad18"
 metafile = true
 
 [[files]]
@@ -555,6 +580,16 @@ hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
 metafile = true
 
 [[files]]
+file = "mods/littletiles.pw.toml"
+hash = "c66129d5a0cdb5fb962aa6c0ce4d72ecab1bc212d03acfaf86c5dcf749cbace6"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "00f3f21762720f03dd0f1d60449d2a5d3a0104989223f4efa81401d94b8f3358"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
 metafile = true
@@ -604,6 +639,16 @@ hash = "a909fc3b78bd8a4b49b2fc3098d4765aba56c790f9772be8c06042a36789d9a6"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "a688b0aa8abb39e5cb303a7172038d15c99b10af075bd2bbb40d72bf1ec34358"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "f70cedcd4a5152a2094a77a165f68f839063ad38a299f113347cf65da21b6d2c"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
@@ -630,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
