@@ -14,5 +14,5 @@ version = "QzVMYIfG"
 
 [option]
 optional = true
-default = true
 description = "Borderless fullscreen mod, nough said."
+default = true

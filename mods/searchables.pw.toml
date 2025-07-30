@@ -14,5 +14,5 @@ version = "PM9yAW1G"
 
 [option]
 optional = true
-default = true
 description = "Required for controlling, if you dont have a controlling im banning you ngl"
+default = true

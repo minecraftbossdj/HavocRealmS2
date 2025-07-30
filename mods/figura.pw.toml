@@ -14,5 +14,5 @@ version = "8892Wqoi"
 
 [option]
 optional = true
-default = true
 description = "Custom model mod + emojis in chat, fully client side"
+default = true

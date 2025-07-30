@@ -14,5 +14,5 @@ version = "W1Wnmkqh"
 
 [option]
 optional = true
-default = true
 description = "makes ip pinging on servers faster."
+default = true

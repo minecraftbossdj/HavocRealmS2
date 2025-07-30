@@ -3,8 +3,8 @@ filename = "ImmediatelyFast-Forge-1.5.1+1.20.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f1687e57a835e44a9ecf2f343cba5817936f8ae0"
+hash-format = "sha512"
+hash = "723cb9e87efebbe5b3e7608ed0517df7e6ff31a168aaca33c85377053da50dd00af4263657a94751304ba4b12247d9687fe95882b0318af54b900041a0ad0fa1"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 686911
 
 [option]
 optional = true
-default = true
 description = "speeds up rendering ig idk gang its peak ngl"
+default = true

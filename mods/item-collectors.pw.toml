@@ -3,8 +3,8 @@ filename = "itemcollectors-1.1.10-forge-mc1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6973bf6a6f70901cea8446b8c34de085c4282147"
+hash-format = "sha512"
+hash = "f7038842870605c1696ae2e3fe0e031387d03a5a6714df2339dc48434a4a19c058836269e8dce2195bd62a7a4d4e35c907dbb8d7acc25917c554baabb341b1b6"
 mode = "metadata:curseforge"
 
 [update]

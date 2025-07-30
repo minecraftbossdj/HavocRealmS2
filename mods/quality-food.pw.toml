@@ -3,8 +3,8 @@ filename = "quality_food-1.20.1-2.2.5-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d903fc831f5abddd87066f0ba8fb2de58172d6a"
+hash-format = "sha512"
+hash = "938e2e8692c2830b11075c3b6f64ce0951e8ae7f91e904167a66ac6a1a3538cda08812b4db8a61ab1547db64bbfab2bb0c3acfc5d23627e495ed7f47790af805"
 mode = "metadata:curseforge"
 
 [update]

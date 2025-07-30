@@ -3,8 +3,8 @@ filename = "ldlib-forge-1.20.1-1.0.41.b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d2bfe0b98d2aa7f07400981895fdb89e06ff0755"
+hash-format = "sha512"
+hash = "b17d538b82cf10e398dc6634ec0695c6ad0b8eb8d2a81bb719e30cc4deeb46f7e9530629859475eb04fa540c9c4cb28101122cb7fda0d77c24a834312136fffb"
 mode = "metadata:curseforge"
 
 [update]

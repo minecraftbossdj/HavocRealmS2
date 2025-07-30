@@ -14,5 +14,5 @@ version = "UTbfe5d1"
 
 [option]
 optional = true
-default = true
 description = "i know where you live (if you dont install this)"
+default = true

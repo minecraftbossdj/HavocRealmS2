@@ -3,8 +3,8 @@ filename = "delivery_director-1.0.1-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "37cedcdb058dbc1c5f922dabd1aaf2b2750dcde9"
+hash-format = "sha512"
+hash = "44f4a070c50b5873386457340a14a3e9c43e743c52e6cc40f9c442227e2fa525c1ba1934d728451f8243c19b6adc5547b82f5e6f676505598d682ba12f4f41a5"
 mode = "metadata:curseforge"
 
 [update]

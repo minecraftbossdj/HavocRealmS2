@@ -3,8 +3,8 @@ filename = "tis3d-MC1.20.1-forge-1.7.7+354a583.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7dca68c8a7420a51adc62741e19cb645eae22e72"
+hash-format = "sha512"
+hash = "5021f98d4fdf0d2206661d6d29dd57f0d03da032a5c411769eb064c4283d80e7fe4e241af48635cfcd9b9d4c91e7281f4f3f8feb99384e7115c9f685bd3c0977"
 mode = "metadata:curseforge"
 
 [update]

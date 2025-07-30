@@ -3,8 +3,8 @@ filename = "Essential_1-3-8-4_forge_1-20-1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "c02ae62e46fba8c763079bbcc8ce64bc597055be"
+hash-format = "sha512"
+hash = "de60d64c9bf15d20bb044c9e47ed082869883f5889bba6b599f9acf817acccd75fd0bf93378b81f7c9d61b7d352954a5bfa5c8d49587ec2dc0b7e55de7c0300f"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 546670
 
 [option]
 optional = true
-default = true
 description = "the essential mod frfr on skib (im ending it)"
+default = true

@@ -3,8 +3,8 @@ filename = "lexiconfig-forge-1.4.18-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1c10e44a30f9cf6c453a737657763fcdfd620ac2"
+hash-format = "sha512"
+hash = "6050924134d594dd7031061bfe70b34429842516b388262335024206e50993794baa3697f08053bd001e728d3ce42875ee5215e819ed2c595a002cec46c40985"
 mode = "metadata:curseforge"
 
 [update]

@@ -14,5 +14,5 @@ version = "RPOjbIwJ"
 
 [option]
 optional = true
-default = true
 description = "yet another performance mod no way"
+default = true

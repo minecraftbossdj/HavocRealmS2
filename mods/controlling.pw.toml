@@ -14,5 +14,5 @@ version = "LH6Bi6Am"
 
 [option]
 optional = true
-default = true
 description = "Allows you to search keybinds, requires searchables"
+default = true

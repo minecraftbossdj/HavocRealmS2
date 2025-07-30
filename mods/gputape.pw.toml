@@ -14,5 +14,5 @@ version = "mMc55fB1"
 
 [option]
 optional = true
-default = true
 description = "fixes vram leaks, based on videotape mod"
+default = true

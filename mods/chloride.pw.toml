@@ -14,5 +14,5 @@ version = "mhoiaJiH"
 
 [option]
 optional = true
-default = true
 description = "embeddium ++ jumpscare :WHAT:"
+default = true

@@ -3,8 +3,8 @@ filename = "overloadedarmorbar-1.20.1-1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "78be460fbca8978ab3ac8f81f28f1ced832ce80a"
+hash-format = "sha512"
+hash = "f0f017f054f7af554141508a5561002ba71a1c9322131f7a208b86a4710d4e9819764fed7522cb4e357a7d8da2220ed030323c2ec55b995fc0beb6e3fb350905"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 314002
 
 [option]
 optional = true
-default = true
 description = "Shows how much armor you have even after your armor bar is full"
+default = true

@@ -14,5 +14,5 @@ version = "og4A1nN8"
 
 [option]
 optional = true
-default = true
 description = "Fixes the gap in item models"
+default = true

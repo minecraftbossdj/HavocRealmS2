@@ -3,8 +3,8 @@ filename = "create-food-1.20.1-1.1.11-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7ddfef5787c99fd713ada8daadfce6178bb03dd5"
+hash-format = "sha512"
+hash = "cd39c4b6c9462bd50117da66865187e80db09a095e548e8071f9978871bb4f308a488a9c1fb6aba3a974841548b3964a446fb35742abf094a691ca97283501f6"
 mode = "metadata:curseforge"
 
 [update]

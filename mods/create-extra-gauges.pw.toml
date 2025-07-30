@@ -3,8 +3,8 @@ filename = "extra_gauges-1.1.2-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "81e3b87df8e14dd17c9ed02c1587a10667408889"
+hash-format = "sha512"
+hash = "93d4e2f015035bbb6746283d1a01333ea6b2b52d49727b9a774ec08cc51fa0f633e2a2c6a9099fcefd32a9a8519916a148d88801b39cbafc9e37db7b1f96dfb6"
 mode = "metadata:curseforge"
 
 [update]

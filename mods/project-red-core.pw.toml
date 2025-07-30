@@ -3,8 +3,8 @@ filename = "ProjectRed-1.20.1-4.21.0-core.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2820c03addb16a3a51f2879b942f76911423bf3a"
+hash-format = "sha512"
+hash = "780d8a8bf686e40a6ff02530a740a51017acdb882d353e88977f90d87477cfe75ef66bf6d697c9fc4d784cbe031a9c51262461b6fe334fc117bfc30771d6ca18"
 mode = "metadata:curseforge"
 
 [update]

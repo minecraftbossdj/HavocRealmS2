@@ -3,8 +3,8 @@ filename = "createadvlogistics-0.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "54b29aa65bb3928a81456d76364c5a137bedc8b6"
+hash-format = "sha512"
+hash = "d82b1280cc36acf6c83e70306bca4aa9572afd5dd502427ca8bff84d7ef27a748e20d5bdf60ec4174590326a5f2f5909176010dddff570df52b1b3db459152f4"
 mode = "metadata:curseforge"
 
 [update]

@@ -14,5 +14,5 @@ version = "hLjmp0IN"
 
 [option]
 optional = true
-default = true
 description = "another optimization mod that improves fps without any visual change"
+default = true
