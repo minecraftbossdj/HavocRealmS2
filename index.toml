@@ -397,6 +397,11 @@ hash = "994a95b41a28faf1281b857b95a140e6cfcd4dde357ea20d05520d04c95907ad"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
@@ -565,6 +570,11 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "73c8492cab4c626442dd3a45e04a30e7d75a4d42a1e48ab132b21897bb3a7762"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "f2bca4baf170dc6aef52ded0a062e9b1ff54ae06c0a756905c9116a2b1e25ca0"
 metafile = true
@@ -577,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
@@ -807,6 +822,11 @@ hash = "486ec1173fa137b47aa97af1d7c20476e1e1cee4fe981a70a497173ca21b192d"
 metafile = true
 
 [[files]]
+file = "mods/slashblade-resharped.pw.toml"
+hash = "5108e82be3fdfcf6ddc76d0f7d2606b55413127c285984d3c4b285fd98843e45"
+metafile = true
+
+[[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "f2c63187c5e77244efcd0e1b4d157cac8373370f248176611a13ad1f1632d008"
 metafile = true
@@ -860,6 +880,11 @@ hash = "6c2e7fa637472cafc315d6b15929532443c79708dc1924f1baba1e37cbfd9481"
 [[files]]
 file = "mods/tconjei.pw.toml"
 hash = "9cb433a13caa2960e17d6c662f1dc735d0f0232c33198c023c3082eb92c2a18c"
+metafile = true
+
+[[files]]
+file = "mods/terramity.pw.toml"
+hash = "b0f2b37f3451ff8a65a716215402826844f9a1874e79b0ea4202637a4cdd5a6b"
 metafile = true
 
 [[files]]
