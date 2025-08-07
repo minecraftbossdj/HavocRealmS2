@@ -49,6 +49,11 @@ hash = "d0ffce1f40e7b95c256b33b519483388461bb379d1e81fe78fd26b4f03c829c0"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e380187cf1daf27828ecba14a0752da077a84a588c8a46bf93eb7e3e7d41a386"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "7a4e0b3c28efe458c0ce1b2d69f3e456572b41007442fe27e6ce6f220a766e97"
 metafile = true
@@ -96,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "01a92b1641bac3843002b45bd64f9512b10206626408cf047c2cf0dc40dd293d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "94910057d9bf56c60c393a3cfe745f78c971005d74d9992462be7527c13315c2"
 metafile = true
 
 [[files]]
@@ -185,6 +195,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
 file = "mods/cobblefordays.pw.toml"
 hash = "79a90f7c770c0ee97e8e6504b8856d5833b1282db425b5254049bceabd0ff979"
 metafile = true
@@ -212,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "b616fbcdf56dbb6b9fef7bcb6d6af6432693b54af8481e2208d8885f739d1665"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "beae80d4ccdf81e78774044b3913e3d007426c5a0bed2397f9b905219afa9d7e"
 metafile = true
 
 [[files]]
@@ -359,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "2e8cbd539c624a761efaa81a13e7fd0c27f12c2ceedeba3c8f074b8e154507d3"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "fc90107a8ba7d443f4e38c2b46743a54bb02596bf076d1de6889eb4d62e5a255"
 metafile = true
 
 [[files]]
@@ -630,6 +655,11 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "2a1e8ae6d57cdbb735a15547d4bdcd0a93f13f7f25cded58bbae663eb47f1c0c"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6398f4f27564d67f9947c66dad37c538f000e7f50b469b7a24c41e58c9a9fc85"
 metafile = true
@@ -637,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8ad5c7f17976aae7aee8505e17a01f88b1a681f5681397b0dae292f299967bd6"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f71945a7eb0a75ed920225f624978790c2ec75c08c24661e06d5b486722d5b1a"
 metafile = true
 
 [[files]]
